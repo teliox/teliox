@@ -1,4 +1,4 @@
-### Hi there 👋
+###안녕하세요 김태량입니다.
 
 <!--
 **teliox/teliox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
